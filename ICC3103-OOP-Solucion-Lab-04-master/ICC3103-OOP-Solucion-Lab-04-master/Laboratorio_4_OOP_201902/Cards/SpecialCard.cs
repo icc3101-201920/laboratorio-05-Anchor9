@@ -9,6 +9,9 @@ namespace Laboratorio_4_OOP_201902.Cards
     {
         //Atributos
         private string buffType;
+        internal SpecialCard lifePoints;
+        internal SpecialCard attackPoints;
+        internal SpecialCard id;
 
         //Propiedades
         public string BuffType
